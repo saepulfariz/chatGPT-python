@@ -1,4 +1,5 @@
 # Installasi ChatGPT Using Python
+![Result ChatGPT-python](https://github.com/saepulfariz/lainnya/blob/main/chatGPT-python.png?raw=true)
 # Daftar Akun dan dapatkan APIKEY 
 1. Silahkan daftar akun di <https://beta.openai.com/account>
 2. Klik Create new secret key https://beta.openai.com/account/api-keys
